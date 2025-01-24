@@ -1,4 +1,4 @@
-# To-Do List Application in Python
+
 
 def display_menu():
     print("\nTo-Do List")
